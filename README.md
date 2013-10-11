@@ -1,7 +1,9 @@
 ATZSwitch
 =========
 
-ATZSwitch is an iOS5+ friendly UIControl that mimics the style of the iOS7 UISwitch.
+ATZSwitch is an iOS 5+ friendly UIControl that mimics the style of the iOS 7 UISwitch.
+
+Simply #import ATZSwitch.h into your project and you can use it in almost the exact same way as UISwitch. ATZSwitch can be used in Interface Builder as well.
 
 ![alt tag](https://raw.github.com/AppTemplatez/ATZSwitch/master/Switch1.png)
 
